@@ -1,0 +1,52 @@
+{
+  "Avg": {
+    "nprocs": 6.3629999999999995,
+    "nthreads": 6.3629999999999995,
+    "pss": 5272340.0,
+    "rchar": 685689301.0,
+    "read_bytes": 91169.0,
+    "rss": 10273034.0,
+    "rx_bytes": 45488768062.0,
+    "rx_packets": 21311196.0,
+    "swap": 0.0,
+    "tx_bytes": 597263963.0,
+    "tx_packets": 10455607.0,
+    "vmem": 15263287.0,
+    "wchar": 7254718.0,
+    "write_bytes": 1321.0
+  },
+  "HW": {
+    "cpu": {
+      "CPUs": 36,
+      "CoresPerSocket": 18,
+      "ModelName": "Intel(R) Xeon(R) Gold 6140 CPU @ 2.30GHz",
+      "Sockets": 2,
+      "ThreadsPerCore": 1
+    },
+    "mem": {
+      "MemTotal": 196716008
+    }
+  },
+  "Max": {
+    "nprocs": 12,
+    "nthreads": 12,
+    "pss": 16011580,
+    "rchar": 2125636834,
+    "read_bytes": 282624,
+    "rss": 29065068,
+    "rx_bytes": 141015180993,
+    "rx_packets": 66064710,
+    "stime": 52,
+    "swap": 0,
+    "tx_bytes": 1851518286,
+    "tx_packets": 32412383,
+    "utime": 887,
+    "vmem": 41810724,
+    "wchar": 22489628,
+    "write_bytes": 4096,
+    "wtime": 310
+  },
+  "prmon": {
+    "Version": "3.0.1"
+  }
+}

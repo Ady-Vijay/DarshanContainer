@@ -1,0 +1,668 @@
+{
+    "bunchGroups": {
+        "BGRP0": {
+            "bcids": [
+                {
+                    "first": 0,
+                    "length": 3540
+                },
+                {
+                    "first": 3561,
+                    "length": 3
+                }
+            ],
+            "id": 0,
+            "info": "3543 bunches, 2 groups",
+            "name": "BCRVeto"
+        },
+        "BGRP1": {
+            "bcids": [
+                {
+                    "first": 1,
+                    "length": 12
+                },
+                {
+                    "first": 189,
+                    "length": 48
+                },
+                {
+                    "first": 244,
+                    "length": 48
+                },
+                {
+                    "first": 455,
+                    "length": 48
+                },
+                {
+                    "first": 510,
+                    "length": 48
+                },
+                {
+                    "first": 565,
+                    "length": 48
+                },
+                {
+                    "first": 858,
+                    "length": 1
+                },
+                {
+                    "first": 1071,
+                    "length": 48
+                },
+                {
+                    "first": 1126,
+                    "length": 48
+                },
+                {
+                    "first": 1337,
+                    "length": 48
+                },
+                {
+                    "first": 1392,
+                    "length": 48
+                },
+                {
+                    "first": 1447,
+                    "length": 48
+                },
+                {
+                    "first": 1965,
+                    "length": 48
+                },
+                {
+                    "first": 2020,
+                    "length": 48
+                },
+                {
+                    "first": 2231,
+                    "length": 48
+                },
+                {
+                    "first": 2286,
+                    "length": 48
+                },
+                {
+                    "first": 2341,
+                    "length": 48
+                },
+                {
+                    "first": 2643,
+                    "length": 1
+                },
+                {
+                    "first": 2859,
+                    "length": 48
+                },
+                {
+                    "first": 2914,
+                    "length": 48
+                },
+                {
+                    "first": 3125,
+                    "length": 48
+                },
+                {
+                    "first": 3180,
+                    "length": 48
+                },
+                {
+                    "first": 3235,
+                    "length": 48
+                }
+            ],
+            "id": 1,
+            "info": "974 bunches, 23 groups",
+            "name": "Paired"
+        },
+        "BGRP10": {
+            "bcids": [
+                {
+                    "first": 1,
+                    "length": 1
+                },
+                {
+                    "first": 700,
+                    "length": 1
+                },
+                {
+                    "first": 1501,
+                    "length": 1
+                },
+                {
+                    "first": 2501,
+                    "length": 1
+                }
+            ],
+            "id": 10,
+            "info": "4 bunches, 4 groups",
+            "name": "ALFA"
+        },
+        "BGRP11": {
+            "bcids": [
+                {
+                    "first": 0,
+                    "length": 1
+                },
+                {
+                    "first": 188,
+                    "length": 1
+                },
+                {
+                    "first": 243,
+                    "length": 1
+                },
+                {
+                    "first": 454,
+                    "length": 1
+                },
+                {
+                    "first": 509,
+                    "length": 1
+                },
+                {
+                    "first": 564,
+                    "length": 1
+                },
+                {
+                    "first": 857,
+                    "length": 1
+                },
+                {
+                    "first": 1070,
+                    "length": 1
+                },
+                {
+                    "first": 1125,
+                    "length": 1
+                },
+                {
+                    "first": 1336,
+                    "length": 1
+                },
+                {
+                    "first": 1391,
+                    "length": 1
+                },
+                {
+                    "first": 1446,
+                    "length": 1
+                },
+                {
+                    "first": 1964,
+                    "length": 1
+                },
+                {
+                    "first": 2019,
+                    "length": 1
+                },
+                {
+                    "first": 2230,
+                    "length": 1
+                },
+                {
+                    "first": 2285,
+                    "length": 1
+                },
+                {
+                    "first": 2340,
+                    "length": 1
+                },
+                {
+                    "first": 2642,
+                    "length": 1
+                },
+                {
+                    "first": 2858,
+                    "length": 1
+                },
+                {
+                    "first": 2913,
+                    "length": 1
+                },
+                {
+                    "first": 3124,
+                    "length": 1
+                },
+                {
+                    "first": 3179,
+                    "length": 1
+                },
+                {
+                    "first": 3234,
+                    "length": 1
+                }
+            ],
+            "id": 11,
+            "info": "23 bunches, 23 groups",
+            "name": "EmptyBeforePaired"
+        },
+        "BGRP12": {
+            "bcids": [
+                {
+                    "first": 0,
+                    "length": 3445
+                },
+                {
+                    "first": 3515,
+                    "length": 25
+                },
+                {
+                    "first": 3561,
+                    "length": 3
+                }
+            ],
+            "id": 12,
+            "info": "3473 bunches, 3 groups",
+            "name": "AllWithoutCalreq"
+        },
+        "BGRP13": {
+            "bcids": [
+                {
+                    "first": 56,
+                    "length": 12
+                },
+                {
+                    "first": 1752,
+                    "length": 1
+                }
+            ],
+            "id": 13,
+            "info": "13 bunches, 2 groups",
+            "name": "UnpairedBeam1"
+        },
+        "BGRP14": {
+            "bcids": [
+                {
+                    "first": 44,
+                    "length": 12
+                },
+                {
+                    "first": 1749,
+                    "length": 1
+                }
+            ],
+            "id": 14,
+            "info": "13 bunches, 2 groups",
+            "name": "UnpairedBeam2"
+        },
+        "BGRP15": {
+            "bcids": [],
+            "id": 15,
+            "info": "0 bunches, 0 groups",
+            "name": "BG15"
+        },
+        "BGRP2": {
+            "bcids": [
+                {
+                    "first": 3445,
+                    "length": 70
+                }
+            ],
+            "id": 2,
+            "info": "70 bunches, 1 groups",
+            "name": "CalReq"
+        },
+        "BGRP3": {
+            "bcids": [
+                {
+                    "first": 18,
+                    "length": 21
+                },
+                {
+                    "first": 73,
+                    "length": 111
+                },
+                {
+                    "first": 297,
+                    "length": 153
+                },
+                {
+                    "first": 618,
+                    "length": 235
+                },
+                {
+                    "first": 864,
+                    "length": 202
+                },
+                {
+                    "first": 1179,
+                    "length": 153
+                },
+                {
+                    "first": 1500,
+                    "length": 244
+                },
+                {
+                    "first": 1758,
+                    "length": 202
+                },
+                {
+                    "first": 2073,
+                    "length": 153
+                },
+                {
+                    "first": 2394,
+                    "length": 244
+                },
+                {
+                    "first": 2649,
+                    "length": 205
+                },
+                {
+                    "first": 2967,
+                    "length": 153
+                },
+                {
+                    "first": 3288,
+                    "length": 157
+                },
+                {
+                    "first": 3515,
+                    "length": 25
+                }
+            ],
+            "id": 3,
+            "info": "2258 bunches, 14 groups",
+            "name": "Empty"
+        },
+        "BGRP4": {
+            "bcids": [
+                {
+                    "first": 44,
+                    "length": 5
+                },
+                {
+                    "first": 63,
+                    "length": 5
+                }
+            ],
+            "id": 4,
+            "info": "10 bunches, 2 groups",
+            "name": "IsolatedUnpaired"
+        },
+        "BGRP5": {
+            "bcids": [
+                {
+                    "first": 49,
+                    "length": 14
+                },
+                {
+                    "first": 1749,
+                    "length": 1
+                },
+                {
+                    "first": 1752,
+                    "length": 1
+                }
+            ],
+            "id": 5,
+            "info": "16 bunches, 3 groups",
+            "name": "NonIsolatedUnpaired"
+        },
+        "BGRP6": {
+            "bcids": [
+                {
+                    "first": 0,
+                    "length": 1
+                },
+                {
+                    "first": 13,
+                    "length": 5
+                },
+                {
+                    "first": 184,
+                    "length": 5
+                },
+                {
+                    "first": 237,
+                    "length": 7
+                },
+                {
+                    "first": 292,
+                    "length": 5
+                },
+                {
+                    "first": 450,
+                    "length": 5
+                },
+                {
+                    "first": 503,
+                    "length": 7
+                },
+                {
+                    "first": 558,
+                    "length": 7
+                },
+                {
+                    "first": 613,
+                    "length": 5
+                },
+                {
+                    "first": 853,
+                    "length": 5
+                },
+                {
+                    "first": 859,
+                    "length": 5
+                },
+                {
+                    "first": 1066,
+                    "length": 5
+                },
+                {
+                    "first": 1119,
+                    "length": 7
+                },
+                {
+                    "first": 1174,
+                    "length": 5
+                },
+                {
+                    "first": 1332,
+                    "length": 5
+                },
+                {
+                    "first": 1385,
+                    "length": 7
+                },
+                {
+                    "first": 1440,
+                    "length": 7
+                },
+                {
+                    "first": 1495,
+                    "length": 5
+                },
+                {
+                    "first": 1960,
+                    "length": 5
+                },
+                {
+                    "first": 2013,
+                    "length": 7
+                },
+                {
+                    "first": 2068,
+                    "length": 5
+                },
+                {
+                    "first": 2226,
+                    "length": 5
+                },
+                {
+                    "first": 2279,
+                    "length": 7
+                },
+                {
+                    "first": 2334,
+                    "length": 7
+                },
+                {
+                    "first": 2389,
+                    "length": 5
+                },
+                {
+                    "first": 2638,
+                    "length": 5
+                },
+                {
+                    "first": 2644,
+                    "length": 5
+                },
+                {
+                    "first": 2854,
+                    "length": 5
+                },
+                {
+                    "first": 2907,
+                    "length": 7
+                },
+                {
+                    "first": 2962,
+                    "length": 5
+                },
+                {
+                    "first": 3120,
+                    "length": 5
+                },
+                {
+                    "first": 3173,
+                    "length": 7
+                },
+                {
+                    "first": 3228,
+                    "length": 7
+                },
+                {
+                    "first": 3283,
+                    "length": 5
+                },
+                {
+                    "first": 3561,
+                    "length": 3
+                }
+            ],
+            "id": 6,
+            "info": "193 bunches, 35 groups",
+            "name": "EmptyBeforeAfterPaired"
+        },
+        "BGRP7": {
+            "bcids": [
+                {
+                    "first": 7,
+                    "length": 6
+                },
+                {
+                    "first": 195,
+                    "length": 42
+                },
+                {
+                    "first": 250,
+                    "length": 42
+                },
+                {
+                    "first": 461,
+                    "length": 42
+                },
+                {
+                    "first": 516,
+                    "length": 42
+                },
+                {
+                    "first": 571,
+                    "length": 42
+                },
+                {
+                    "first": 1077,
+                    "length": 42
+                },
+                {
+                    "first": 1132,
+                    "length": 42
+                },
+                {
+                    "first": 1343,
+                    "length": 42
+                },
+                {
+                    "first": 1398,
+                    "length": 42
+                },
+                {
+                    "first": 1453,
+                    "length": 42
+                },
+                {
+                    "first": 1971,
+                    "length": 42
+                },
+                {
+                    "first": 2026,
+                    "length": 42
+                },
+                {
+                    "first": 2237,
+                    "length": 42
+                },
+                {
+                    "first": 2292,
+                    "length": 42
+                },
+                {
+                    "first": 2347,
+                    "length": 42
+                },
+                {
+                    "first": 2865,
+                    "length": 42
+                },
+                {
+                    "first": 2920,
+                    "length": 42
+                },
+                {
+                    "first": 3131,
+                    "length": 42
+                },
+                {
+                    "first": 3186,
+                    "length": 42
+                },
+                {
+                    "first": 3241,
+                    "length": 42
+                }
+            ],
+            "id": 7,
+            "info": "846 bunches, 21 groups",
+            "name": "InTrain"
+        },
+        "BGRP8": {
+            "bcids": [
+                {
+                    "first": 0,
+                    "length": 1
+                },
+                {
+                    "first": 3515,
+                    "length": 25
+                },
+                {
+                    "first": 3561,
+                    "length": 3
+                }
+            ],
+            "id": 8,
+            "info": "29 bunches, 3 groups",
+            "name": "AbortGapNotCalReq"
+        },
+        "BGRP9": {
+            "bcids": [],
+            "id": 9,
+            "info": "0 bunches, 0 groups",
+            "name": "AfterGlow"
+        }
+    },
+    "filetype": "bunchgroupset",
+    "name": "LHCFS_25ns_987b_974_878_917_144bpi_13inj"
+}

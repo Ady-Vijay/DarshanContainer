@@ -1,0 +1,2501 @@
+{
+    "cutValues": {
+        "L1_2EM10VH": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM15": {
+            "cut": 15958815,
+            "enabled": true,
+            "info": "prescale: 20.499993"
+        },
+        "L1_2EM15VH": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM15VHI": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM20VH": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM3": {
+            "cut": 16776514,
+            "enabled": true,
+            "info": "prescale: 23899.166667"
+        },
+        "L1_2EM3_VTE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM7": {
+            "cut": 16773703,
+            "enabled": true,
+            "info": "prescale: 4775.751494"
+        },
+        "L1_2EM8I": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM8I_J50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM8I_J75": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2EM8VH_MU10": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2J15_XE55": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2J50_XE40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU10": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU20_OVERLAY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU4": {
+            "cut": 16532293,
+            "enabled": true,
+            "info": "prescale: 68.499957"
+        },
+        "L1_2MU4_J20_XE30_DPHI-J20s2XE30": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU4_J20_XE40_DPHI-J20s2XE30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU4_J20_XE50_DPHI-J20s2XE30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU4_J40_XE50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2MU6": {
+            "cut": 16541250,
+            "enabled": true,
+            "info": "prescale: 71.100137"
+        },
+        "L1_2MU6_3MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2TAU20IM_3J20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_2TAU20IM_J25_3J20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_30M-EM20ITAU12": {
+            "cut": 16775361,
+            "enabled": true,
+            "info": "prescale: 9044.320755"
+        },
+        "L1_3J15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J15.0ETA25_XE40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J15_BTAG-MU4J15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J15_BTAG-MU4J30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J15_BTAG-MU6J25": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J20_4J20.0ETA49_MJJ-400": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J20_4J20.0ETA49_MJJ-700": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J20_4J20.0ETA49_MJJ-800": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J20_4J20.0ETA49_MJJ-900": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J20_BTAG-MU4J20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J25.0ETA23": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J35.0ETA23": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J40": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3J50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_3MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4J15": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4J15.0ETA25": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4J15.0ETA25_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4J20.0ETA49": {
+            "cut": 16763673,
+            "enabled": true,
+            "info": "prescale: 1238.810825"
+        },
+        "L1_4J20_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_4MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_5J15.0ETA25": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_6J15": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_J12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_MBTS_2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_SPECTOF": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_SPECTOF_J100": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_SPECTOF_J50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_SPECTOF_J75": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_AND_C_TE5": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_J12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_MBTS_2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_TE5": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_OR_C_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_SPECTOF": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_A_SPECTOF_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_C_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_C_SPECTOF": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_C_SPECTOF_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_FSA_SIT": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_FSA_SIT_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_FSC_SIT": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_FSC_SIT_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_NSA": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_NSA_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_NSC": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_AFP_NSC_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7L1L": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7L1L_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7L1U": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7L1U_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7L1_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7R1L": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7R1L_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7R1U": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7R1U_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_A7R1_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_ABORTGAPNOTCALIB": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_BGRP10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_CALIB": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ANY_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B1_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B2_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7L1L": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7L1L_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7L1U": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7L1U_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7L1_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7R1L": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7R1L_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7R1U": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7R1U_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_B7R1_OD": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_BGT_BGRP1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_BGT_BGRP10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_BGT_BGRP4": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST13": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST14": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST15_Calib": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST16": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST17": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST18": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST18_Calib": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_ELAST2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_SHOWSYST5": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_SYST17": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ALFA_SYST18": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BCM_AC_ABORTGAPNOTCALIB": {
+            "cut": 15099495,
+            "enabled": true,
+            "info": "prescale: 10.000003"
+        },
+        "L1_BCM_AC_CALIB": {
+            "cut": 16609444,
+            "enabled": true,
+            "info": "prescale: 100.000089"
+        },
+        "L1_BCM_AC_CA_BGRP0": {
+            "cut": 16777174,
+            "enabled": true,
+            "info": "prescale: 399457.500000"
+        },
+        "L1_BCM_AC_UNPAIREDB1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BCM_AC_UNPAIRED_ISO": {
+            "cut": 11184811,
+            "enabled": true,
+            "info": "prescale: 3.000000"
+        },
+        "L1_BCM_AC_UNPAIRED_NONISO": {
+            "cut": 15099495,
+            "enabled": true,
+            "info": "prescale: 10.000003"
+        },
+        "L1_BCM_CA_ABORTGAPNOTCALIB": {
+            "cut": 15099495,
+            "enabled": true,
+            "info": "prescale: 10.000003"
+        },
+        "L1_BCM_CA_CALIB": {
+            "cut": 16609444,
+            "enabled": true,
+            "info": "prescale: 100.000089"
+        },
+        "L1_BCM_CA_UNPAIREDB2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BCM_CA_UNPAIRED_ISO": {
+            "cut": 11184811,
+            "enabled": true,
+            "info": "prescale: 3.000000"
+        },
+        "L1_BCM_CA_UNPAIRED_NONISO": {
+            "cut": 15099495,
+            "enabled": true,
+            "info": "prescale: 10.000003"
+        },
+        "L1_BCM_Wide_ABORTGAPNOTCALIB": {
+            "cut": 15099495,
+            "enabled": true,
+            "info": "prescale: 10.000003"
+        },
+        "L1_BCM_Wide_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BCM_Wide_CALIB": {
+            "cut": 16609444,
+            "enabled": true,
+            "info": "prescale: 100.000089"
+        },
+        "L1_BCM_Wide_EMPTY": {
+            "cut": 16743662,
+            "enabled": true,
+            "info": "prescale: 500.006408"
+        },
+        "L1_BCM_Wide_UNPAIRED_ISO": {
+            "cut": 15938355,
+            "enabled": true,
+            "info": "prescale: 19.999994"
+        },
+        "L1_BCM_Wide_UNPAIRED_NONISO": {
+            "cut": 16760439,
+            "enabled": true,
+            "info": "prescale: 1000.012815"
+        },
+        "L1_BGRP9": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0DR3-EM7J15": {
+            "cut": 16777183,
+            "enabled": true,
+            "info": "prescale: 508400.454545"
+        },
+        "L1_BPH-0DR3-EM7J15_2MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0DR3-EM7J15_MU4": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0DR3-EM7J15_MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0M9-EM7-EM5": {
+            "cut": 16777091,
+            "enabled": true,
+            "info": "prescale: 134217.720000"
+        },
+        "L1_BPH-0M9-EM7-EM5_2MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0M9-EM7-EM5_MU4": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-0M9-EM7-EM5_MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-2M9-2MU4_BPH-0DR15-2MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-2M9-2MU6_BPH-2DR15-2MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-2M9-MU6MU4_BPH-0DR15-MU6MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-8M15-2MU6_BPH-0DR22-2MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-8M15-MU6MU4_BPH-0DR22-MU6MU4": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-8M15-MU6MU4_BPH-0DR22-MU6MU4-B": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPH-8M15-MU6MU4_BPH-0DR22-MU6MU4-BO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPTX0_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BPTX1_BGRP0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BTAG-MU4J15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_BTAG-MU6J20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_CALREQ2": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DPHI-2EM3": {
+            "cut": 16777212,
+            "enabled": true,
+            "info": "prescale: 4194303.750000"
+        },
+        "L1_DPHI-2EM3_VTE10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DPHI-2EM3_VTE5.24ETA49": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DPHI-2EM7_VTE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DPHI-AJ20s2XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DPHI-J20s2XE50": {
+            "cut": 16765441,
+            "enabled": true,
+            "info": "prescale: 1424.816561"
+        },
+        "L1_DR-EM15TAU12I": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR-EM15TAU12I-J25": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR-MU10TAU12I": {
+            "cut": 16772301,
+            "enabled": true,
+            "info": "prescale: 3413.472024"
+        },
+        "L1_DR-MU10TAU12I_TAU12I-J25": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR-TAU20ITAU12I": {
+            "cut": 16774147,
+            "enabled": true,
+            "info": "prescale: 5466.671554"
+        },
+        "L1_DR-TAU20ITAU12I-J25": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR-TAU20ITAU12I-J25_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR25-TAU20ITAU12I": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DR25-TAU20ITAU12I-J25": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_DY-BOX-2MU6": {
+            "cut": 16769969,
+            "enabled": true,
+            "info": "prescale: 2315.056575"
+        },
+        "L1_DY-DR-2MU4": {
+            "cut": 16776751,
+            "enabled": true,
+            "info": "prescale: 36080.032258"
+        },
+        "L1_EM10VH": {
+            "cut": 16775309,
+            "enabled": true,
+            "info": "prescale: 8797.700577"
+        },
+        "L1_EM12": {
+            "cut": 16769478,
+            "enabled": true,
+            "info": "prescale: 2168.159085"
+        },
+        "L1_EM12_2EM3": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_AFP_A_OR_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_W-MT25": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_W-MT25_W-15DPHI-JXE-0_W-15DPHI-EMXE": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_W-MT25_W-15DPHI-JXE-0_W-15DPHI-EMXE_W-90RO2-XEHT-0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_W-MT25_W-15DPHI-JXE-0_W-15DPHI-EMXE_XS20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM12_XS20": {
+            "cut": 16684780,
+            "enabled": true,
+            "info": "prescale: 181.500876"
+        },
+        "L1_EM15": {
+            "cut": 16622730,
+            "enabled": true,
+            "info": "prescale: 108.600229"
+        },
+        "L1_EM15I": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15I_MU4": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15TAU12I-J25": {
+            "cut": 16773405,
+            "enabled": true,
+            "info": "prescale: 4402.313041"
+        },
+        "L1_EM15VH": {
+            "cut": 16766730,
+            "enabled": true,
+            "info": "prescale: 1599.963284"
+        },
+        "L1_EM15VHI": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VHI_2TAU12IM": {
+            "cut": 16680182,
+            "enabled": true,
+            "info": "prescale: 172.900375"
+        },
+        "L1_EM15VHI_2TAU12IM_4J12": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VHI_2TAU12IM_J25_3J12": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VHI_2TAU12IM_XE35": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VHI_TAU20IM_2TAU15_J25_2J20_3J15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VHI_TAU40_2TAU15": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VH_3EM10VH": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VH_3EM7": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15VH_MU10": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_W-MT35": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_W-MT35_W-05DPHI-JXE-0_W-05DPHI-EM15XE": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_W-MT35_W-05DPHI-JXE-0_W-05DPHI-EM15XE_XS30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_W-MT35_W-250RO2-XEHT-0_W-05DPHI-JXE-0_W-05DPHI-EM15XE": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_W-MT35_W-250RO2-XEHT-0_W-15DPHI-JXE-0_W-15DPHI-EM15XE": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM15_XS30": {
+            "cut": 16362964,
+            "enabled": true,
+            "info": "prescale: 40.500022"
+        },
+        "L1_EM18VHI": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM18VHI_3J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM18VHI_MJJ-300": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VH": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VHI": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VHI_TAU20IM_2TAU20_J25_3J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VH_2EM10VH_3EM8VH": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VH_3EM10VH": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM20VH_3J20": {
+            "cut": 15658735,
+            "enabled": true,
+            "info": "prescale: 15.000000"
+        },
+        "L1_EM20VH_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM22VH": {
+            "cut": 16242910,
+            "enabled": true,
+            "info": "prescale: 31.400012"
+        },
+        "L1_EM22VHI": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM22VHI_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM24VHI": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM24VHIM": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM3": {
+            "cut": 16777192,
+            "enabled": true,
+            "info": "prescale: 699050.625000"
+        },
+        "L1_EM3_AFP_A_AND_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM3_AFP_A_OR_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM3_EMPTY": {
+            "cut": 16773501,
+            "enabled": true,
+            "info": "prescale: 4516.074024"
+        },
+        "L1_EM7": {
+            "cut": 16775230,
+            "enabled": true,
+            "info": "prescale: 8447.741692"
+        },
+        "L1_EM7_2EM3": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_AFP_A_OR_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_MU10": {
+            "cut": 16776085,
+            "enabled": true,
+            "info": "prescale: 14833.965517"
+        },
+        "L1_EM7_MU11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_MU20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM7_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM8I_MU10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM8VH": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_EM8VH_MU20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_FTK-EM": {
+            "cut": 16774634,
+            "enabled": true,
+            "info": "prescale: 6497.759489"
+        },
+        "L1_FTK-J": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_FTK-MU": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT150-J20.ETA31": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT150-J20s5.ETA31": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT150-J20s5.ETA31_MJJ-400": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT150-J20s5.ETA31_MJJ-400-CF": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT150-JJ15.ETA49": {
+            "cut": 16772499,
+            "enabled": true,
+            "info": "prescale: 3556.755353"
+        },
+        "L1_HT150-JJ15.ETA49_MJJ-400": {
+            "cut": 16756239,
+            "enabled": true,
+            "info": "prescale: 799.790962"
+        },
+        "L1_HT190-J15.ETA21": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_HT190-J15s5.ETA21": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J100": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J100_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J100_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J120": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_ABORTGAPNOTCALIB": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_BGRP12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_EMPTY": {
+            "cut": 12964213,
+            "enabled": true,
+            "info": "prescale: 4.400000"
+        },
+        "L1_J12_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_UNPAIREDB1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_UNPAIREDB2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J12_UNPAIRED_NONISO": {
+            "cut": 13421773,
+            "enabled": true,
+            "info": "prescale: 5.000000"
+        },
+        "L1_J15": {
+            "cut": 16776898,
+            "enabled": true,
+            "info": "prescale: 52758.537736"
+        },
+        "L1_J15.0ETA25_2J15.31ETA49": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J15.31ETA49": {
+            "cut": 16775222,
+            "enabled": true,
+            "info": "prescale: 8413.849047"
+        },
+        "L1_J15.31ETA49_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J15_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J20": {
+            "cut": 16773304,
+            "enabled": true,
+            "info": "prescale: 4288.654141"
+        },
+        "L1_J20.28ETA31": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J20.31ETA49": {
+            "cut": 16750360,
+            "enabled": true,
+            "info": "prescale: 624.710121"
+        },
+        "L1_J20_J20.31ETA49": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J25": {
+            "cut": 16777120,
+            "enabled": true,
+            "info": "prescale: 174762.656250"
+        },
+        "L1_J25.0ETA23_2J15.31ETA49": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30": {
+            "cut": 16765673,
+            "enabled": true,
+            "info": "prescale: 1453.453608"
+        },
+        "L1_J30.0ETA49_2J20.0ETA49": {
+            "cut": 16776893,
+            "enabled": true,
+            "info": "prescale: 51941.842105"
+        },
+        "L1_J30.31ETA49": {
+            "cut": 16583260,
+            "enabled": true,
+            "info": "prescale: 86.500108"
+        },
+        "L1_J30.31ETA49_BGRP12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30.31ETA49_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30.31ETA49_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30.31ETA49_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J30_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J4-MATCH": {
+            "cut": 16757805,
+            "enabled": true,
+            "info": "prescale: 864.314821"
+        },
+        "L1_J40": {
+            "cut": 16774016,
+            "enabled": true,
+            "info": "prescale: 5242.879687"
+        },
+        "L1_J40.0ETA25_2J15.31ETA49": {
+            "cut": 13207596,
+            "enabled": true,
+            "info": "prescale: 4.700000"
+        },
+        "L1_J40.0ETA25_2J25_J20.31ETA49": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40.0ETA25_2J30_J20.31ETA49": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40.0ETA25_XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J400": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_DPHI-CJ20XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_DPHI-J20XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_DPHI-J20s2XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_XE50": {
+            "cut": 16707048,
+            "enabled": true,
+            "info": "prescale: 239.100658"
+        },
+        "L1_J40_XE50_DPHI-J20s2XE50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J40_XE60": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J50": {
+            "cut": 15938355,
+            "enabled": true,
+            "info": "prescale: 19.999994"
+        },
+        "L1_J50.31ETA49": {
+            "cut": 13726813,
+            "enabled": true,
+            "info": "prescale: 5.500000"
+        },
+        "L1_J50_ABORTGAPNOTCALIB": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J50_DETA20-J50J": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J50_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J50_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J75": {
+            "cut": 16075240,
+            "enabled": true,
+            "info": "prescale: 23.899984"
+        },
+        "L1_J75.31ETA49": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J75_3J20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_J85": {
+            "cut": 16661591,
+            "enabled": true,
+            "info": "prescale: 145.100238"
+        },
+        "L1_J85_3J30": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_JPSI-1M5": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_JPSI-1M5-EM12": {
+            "cut": 14478967,
+            "enabled": true,
+            "info": "prescale: 7.299999"
+        },
+        "L1_JPSI-1M5-EM7": {
+            "cut": 16654844,
+            "enabled": true,
+            "info": "prescale: 137.100113"
+        },
+        "L1_KF-XE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_KF-XE55": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_KF-XE60": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_KF-XE65": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_KF-XE75": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LAR-EM": {
+            "cut": 16770763,
+            "enabled": true,
+            "info": "prescale: 2599.909344"
+        },
+        "L1_LAR-J": {
+            "cut": 16318822,
+            "enabled": true,
+            "info": "prescale: 36.599988"
+        },
+        "L1_LAR-ZEE": {
+            "cut": 16452076,
+            "enabled": true,
+            "info": "prescale: 51.599972"
+        },
+        "L1_LAR-ZEE_LAR-EM": {
+            "cut": 12242834,
+            "enabled": true,
+            "info": "prescale: 3.700000"
+        },
+        "L1_LATE-MU10_J50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LATE-MU10_XE40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LATE-MU10_XE50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LFV-EM15I": {
+            "cut": 16753344,
+            "enabled": true,
+            "info": "prescale: 702.798886"
+        },
+        "L1_LFV-EM8I": {
+            "cut": 16760178,
+            "enabled": true,
+            "info": "prescale: 984.693919"
+        },
+        "L1_LFV-MU": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LFV-MU11": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LFV-MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LHCF": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LHCF_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LHCF_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LLP-NOMATCH": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LLP-RO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LUCID": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LUCID_BGRP11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LUCID_BGRP9": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LUCID_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_LUCID_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_1": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_1_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_1_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_BGRP11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_BGRP9": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_1_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_2": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_2_BGRP11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_2_BGRP9": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_2_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_2_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_4_A": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_4_A_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_4_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MBTS_4_C_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MJJ-100": {
+            "cut": 16776631,
+            "enabled": true,
+            "info": "prescale: 28679.000000"
+        },
+        "L1_MJJ-400": {
+            "cut": 16770194,
+            "enabled": true,
+            "info": "prescale: 2389.235973"
+        },
+        "L1_MJJ-400-CF": {
+            "cut": 16759700,
+            "enabled": true,
+            "info": "prescale: 957.822277"
+        },
+        "L1_MJJ-400-NFF": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MJJ-500-NFF": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MJJ-700": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MJJ-800": {
+            "cut": 16743053,
+            "enabled": true,
+            "info": "prescale: 491.093142"
+        },
+        "L1_MU10": {
+            "cut": 16527555,
+            "enabled": true,
+            "info": "prescale: 67.199983"
+        },
+        "L1_MU10_2J15_J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_2J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_2MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_3J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU12I-J25": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU12IM": {
+            "cut": 16018066,
+            "enabled": true,
+            "info": "prescale: 22.100000"
+        },
+        "L1_MU10_TAU12IM_3J12": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU12IM_J25_2J12": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU12IM_XE35": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU20IM": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU10_TAU20IM_J25_2J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU11": {
+            "cut": 16776379,
+            "enabled": true,
+            "info": "prescale: 20044.462366"
+        },
+        "L1_MU11_2MU6": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU11_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU11_TAU20IM": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20_J40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20_TAU12IM_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU20_XE30": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU21": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU21_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU21_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4": {
+            "cut": 16756372,
+            "enabled": true,
+            "info": "prescale: 804.894214"
+        },
+        "L1_MU4_AFP_A_AND_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_AFP_A_OR_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_EMPTY": {
+            "cut": 16441672,
+            "enabled": true,
+            "info": "prescale: 50.000045"
+        },
+        "L1_MU4_FIRSTEMPTY": {
+            "cut": 16777048,
+            "enabled": true,
+            "info": "prescale: 99864.375000"
+        },
+        "L1_MU4_J30_XE40_DPHI-J20s2XE30": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_J50_XE50_DPHI-J20s2XE30": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_TE10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_TE20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_TE30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_TE40": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU4_XE60": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU6": {
+            "cut": 16577962,
+            "enabled": true,
+            "info": "prescale: 84.200142"
+        },
+        "L1_MU6_2MU4": {
+            "cut": 16712339,
+            "enabled": true,
+            "info": "prescale: 258.600351"
+        },
+        "L1_MU6_3MU4": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU6_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU6_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU6_J20": {
+            "cut": 16535121,
+            "enabled": true,
+            "info": "prescale: 69.300130"
+        },
+        "L1_MU6_J30.0ETA49_2J20.0ETA49": {
+            "cut": 16609444,
+            "enabled": true,
+            "info": "prescale: 100.000089"
+        },
+        "L1_MU6_J40": {
+            "cut": 15486661,
+            "enabled": true,
+            "info": "prescale: 13.000000"
+        },
+        "L1_MU6_J75": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_MU6_MJJ-200": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD0_ABORTGAPNOTCALIB": {
+            "cut": 16776804,
+            "enabled": true,
+            "info": "prescale: 40721.395631"
+        },
+        "L1_RD0_BGRP10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD0_BGRP11": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD0_BGRP9": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD0_EMPTY": {
+            "cut": 16777209,
+            "enabled": true,
+            "info": "prescale: 2396745.000000"
+        },
+        "L1_RD0_FILLED": {
+            "cut": 16776449,
+            "enabled": true,
+            "info": "prescale: 21873.813559"
+        },
+        "L1_RD0_UNPAIRED_ISO": {
+            "cut": 16775422,
+            "enabled": true,
+            "info": "prescale: 9351.847826"
+        },
+        "L1_RD0_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD1_BGRP10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD1_EMPTY": {
+            "cut": 16777211,
+            "enabled": true,
+            "info": "prescale: 3355443.000000"
+        },
+        "L1_RD1_FILLED": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD2_BGRP12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD2_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD2_FILLED": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD3_BGRP15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD3_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD3_FILLED": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_RD3_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_SC111-CJ15": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_SC85-CJ15": {
+            "cut": 16772932,
+            "enabled": true,
+            "info": "prescale: 3916.250000"
+        },
+        "L1_TAU100": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU12": {
+            "cut": 16777204,
+            "enabled": true,
+            "info": "prescale: 1398101.250000"
+        },
+        "L1_TAU12IM": {
+            "cut": 16777106,
+            "enabled": true,
+            "info": "prescale: 152520.136364"
+        },
+        "L1_TAU12IM_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2J20_XE45": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2TAU12IM": {
+            "cut": 16607406,
+            "enabled": true,
+            "info": "prescale: 98.799923"
+        },
+        "L1_TAU20IM_2TAU12IM_4J12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2TAU12IM_4J12.0ETA23": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2TAU12IM_J25_2J20_3J12": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2TAU12IM_J25_2J20_3J12_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_2TAU12IM_XE35": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20IM_FTK": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU20ITAU12I-J25": {
+            "cut": 16775458,
+            "enabled": true,
+            "info": "prescale: 9543.353242"
+        },
+        "L1_TAU20_2TAU12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU25IM_2TAU12IM_J25_3J12": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU25IM_2TAU20IM_2J25_3J20": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU30": {
+            "cut": 16776789,
+            "enabled": true,
+            "info": "prescale: 39290.901639"
+        },
+        "L1_TAU30_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU30_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU40": {
+            "cut": 16776215,
+            "enabled": true,
+            "info": "prescale: 16760.454545"
+        },
+        "L1_TAU40_2TAU12IM_XE40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU40_2TAU20IM": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU60": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU60_2TAU40": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU60_DR-TAU20ITAU12I": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU8": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU8_EMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU8_FIRSTEMPTY": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU8_UNPAIRED_ISO": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TAU8_UNPAIRED_NONISO": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE15": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE20": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE25": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE30": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE40": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE5": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TE50": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TGC_BURST": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TRT_EMPTY": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_TRT_FILLED": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_W-05RO-XEHT-0": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE10": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE30": {
+            "cut": 16777068,
+            "enabled": true,
+            "info": "prescale: 113359.560811"
+        },
+        "L1_XE300": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE35": {
+            "cut": 16776478,
+            "enabled": true,
+            "info": "prescale: 22733.353659"
+        },
+        "L1_XE40": {
+            "cut": 16775639,
+            "enabled": true,
+            "info": "prescale: 10638.690552"
+        },
+        "L1_XE45": {
+            "cut": 16774109,
+            "enabled": true,
+            "info": "prescale: 5399.811715"
+        },
+        "L1_XE50": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE55": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE60": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE70": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_XE80": {
+            "cut": 1,
+            "enabled": true,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ZB": {
+            "cut": 16775878,
+            "enabled": true,
+            "info": "prescale: 12539.024664"
+        },
+        "L1_ZDC_A": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ZDC_AND": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ZDC_A_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        },
+        "L1_ZDC_C": {
+            "cut": 1,
+            "enabled": false,
+            "info": "prescale: 1.000000"
+        }
+    },
+    "filetype": "l1prescale",
+    "name": "Physics_pp_v7_60.0_65.0e32_974b"
+}

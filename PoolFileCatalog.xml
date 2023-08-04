@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="60B152E9-72CD-134B-A657-411FFAB7579C">
+    <physical>
+      <pfn filetype="ROOT_All" name="/cvmfs/atlas-nightlies.cern.ch/repo/data/data-art/Tier0ChainTests/data18_13TeV.00357772.physics_Main.recon.AOD.r13286/AOD.27654050._000557.pool.root.1"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>

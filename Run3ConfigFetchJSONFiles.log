@@ -1,0 +1,53 @@
+========================================
+JOB SETUP: DB --> JSON
+----------
+   Input               : TRIGGERDB, 2737,22961,17171,2113, 
+   Output              : 
+   Print menu detail   : 1
+========================================
+SessionMgr                     INFO Create own ReplicaSortingAlgorithm
+ReplicaSorter constructor
+Using machine hostname hepd-0003 for DB replica resolution
+Frontier server at (serverurl=http://atlasfrontier-ai.cern.ch:8000/atlr)(proxyurl=http://atlasbpfrontier.cern.ch:3127)(proxyurl=http://atlasbpfrontier.fnal.gov:3127) will be considered
+Opening /cvmfs/atlas-nightlies.cern.ch/repo/sw/master_Athena_x86_64-centos7-gcc11-opt/2023-07-04T2101/Athena/24.0.8/InstallArea/x86_64-centos7-gcc11-opt/share/dbreplica.config
+No specific match for domain found - use default fallback
+Total of 2 servers found for host hepd-0003
+SessionMgr                     INFO Connecting to TRIGGERDB
+Allowed replica to try (priority 0) : frontier://ATLF/()/ATLAS_CONF_TRIGGER_RUN2
+SessionMgr                     INFO Opening session TRIGGERDB with 0/0/0
+MCKLoader                      INFO Found no active MCK for SMK 2737
+Did not load MCK from DB as MCK is 0 or no MCK is linkedSessionMgr                     INFO Closing session TRIGGERDB
+Loaded this configuration
+    SMK     2737
+    L1 PSK  22961
+    HLT PSK 17171
+    BGSK    2113
+  ================================================================================
+  CTP Configuration (SMK = 2737):   Physics_pp_v7
+  CTP Version 4
+  L1 Version 1
+  Trigger menu Physics_pp_v7 (id=173/v=67)
+          number of pits        : 256
+          number of tips        : 409
+          number of thresholds  : 335
+          number of items       : 499
+          number of thr monitors: 533
+  PrescaleSet Physics_pp_v7_60.0_65.0e32_974b (id=22961/v=13)
+  BunchGroupSet LHCFS_25ns_987b_974_878_917_144bpi_13inj (id=2113/v=1)
+  Number of bunch groups: 16
+  Random  (id=2/v=0)
+  ================================================================================
+  ================================================================================
+  HLT Configuration (SMK = 2737):   Physics_pp_v7 (id=0/v=228)
+  Comment: Physics, with ALFAMon, release 21.1.36 with patches as described in ATR-18490
+  HLTChainList has 3169 chains
+  HLTSequenceList has 4553 sequences
+  HLTPrescaleSetCollection has 1 prescale set(s) defined, 1 loaded.
+         LB      PSK       Loaded     Name
+          0    17171          yes     Physics_pp_v7_60.0_65.0e32_974b
+  ================================================================================
+JsonFileWriterL1               INFO Saved file L1Menu.json
+JsonFileWriterL1               INFO Saved file L1PrescalesSet.json
+JsonFileWriterL1               INFO Saved file BunchGroupSet.json
+JsonFileWriterHLT              INFO Saved file HLTMenu.json
+JsonFileWriterHLT              INFO Saved file HLTPrescalesSet.json
